@@ -1,0 +1,8 @@
+# Generated tide data files
+honolulu_tides_*.csv
+honolulu_tides_*.txt
+*_slope.csv
+
+# Python
+__pycache__/
+*.pyc
